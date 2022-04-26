@@ -292,3 +292,5 @@ SECURE_SSL_REDIRECT = True
 ### 確認しよう
 
 すべての画面のデザインが変わっていればOKです。
+#   D j a n g o 2  
+ 
